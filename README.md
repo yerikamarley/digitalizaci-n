@@ -1,2 +1,2 @@
-##digitalizacion
-#clase git
+## digitalizacion
+# clase git
